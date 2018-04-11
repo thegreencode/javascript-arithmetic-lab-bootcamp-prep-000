@@ -2,3 +2,6 @@
   expect(add(a, b)).toEqual(a + b)
 }) */
 
+function add(a, b) {
+  return add()
+}
