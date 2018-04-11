@@ -2,4 +2,6 @@
   expect(add(a, b)).toEqual(a + b)
 }) */
 
-add
+add(a + b) 
+  return add()
+  
